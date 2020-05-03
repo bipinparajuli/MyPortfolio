@@ -1,0 +1,44 @@
+.container-fluid {
+    background-image: url(images/kevin-ku-aiyBwbrWWlo-unsplash.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 660px;
+    width: 100%;
+}
+
+.content {
+    padding-top: 4%;
+}
+
+.content>h1 {
+    font-size: 80px;
+    font-family: 'Arvo', serif;
+}
+
+.content>h6 {
+    font-size: 20px;
+    font-family: 'Arvo', serif;
+}
+
+.profile-container {
+    margin-top: 6%;
+}
+
+.profile {
+    color: #74B9FF;
+    font-size: 60px;
+    margin-bottom: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+span {
+    color: #74B9FF;
+}
+
+.profile-head-container {
+    margin-top: 4%;
+}
+
+.profile-content-container {
+    margin-top: 4%;
+}
